@@ -6,4 +6,4 @@
 
 better than [Tastefulblatant](https://github.com/tastefulblatant)
 
-In love with [McKenzieMacy](https://github.com/McKenzieMacky)
+In love with [McKenzieMacky](https://github.com/McKenzieMacky)
