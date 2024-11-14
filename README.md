@@ -4,6 +4,4 @@
 
 🚗 Chief machine learning engineer at Tesla
 
-better than [Tastefulblatant](https://github.com/tastefulblatant)
-
 In love with [McKenzieMacky](https://github.com/McKenzieMacky)
